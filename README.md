@@ -6,3 +6,5 @@
 (>): &gt ;
 (&): &amp ;
 &nbsp: non-breaking space
+
+<!-- comentário -->
