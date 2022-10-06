@@ -2,4 +2,7 @@
 
 ***HTML***
 
+(<): &lt ;
+(>): &gt ;
+(&): &amp ;
 &nbsp: non-breaking space
