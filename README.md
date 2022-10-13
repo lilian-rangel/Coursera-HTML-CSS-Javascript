@@ -90,3 +90,9 @@ cursor: pointer;
 Specificity (score)
 style='inline' > id > classe, pseudo-classe, atributo > seletor do elemento
 
+box-sizing: border-box;
+
+(*) {
+ seletor universal
+}
+
